@@ -6,9 +6,8 @@
     "start": "ng serve",
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
-    "test": "ng test",
-    "serve:ssr:password-strength-app": "node dist/password-strength-app/server/server.mjs"
-  },
+    "test": "ng test"
+    },
   "private": true,
   "dependencies": {
     "@angular/animations": "^17.0.0",
